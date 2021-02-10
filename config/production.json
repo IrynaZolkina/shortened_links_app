@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "nothing better to do",
+  "mongoUri": "mongodb+srv://Iryna123:123iryna@cluster0.parno.mongodb.net/merndb?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
